@@ -7,6 +7,9 @@ post-exploitation or forensics purpose. It automates swap extraction and
 searches for Linux user credentials, Web form credentials, Web form emails,
 HTTP basic authentication, WiFi SSID and keys, etc.
 
+用于自动进行Linux交换分析，以进行后剥削或取证用途。它可以自动进行交换提取，并搜索Linux用户凭据，Web表单凭据，Web表单电子邮件，HTTP基本身份验证，WiFi SSID和密钥等。
+
+
 ![Sample run](/assets/swap_digger.png?raw=true "Sample run")
 
 ## Download and run the tool
